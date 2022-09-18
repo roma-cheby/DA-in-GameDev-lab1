@@ -41,7 +41,7 @@
 
 ![image](https://user-images.githubusercontent.com/105049918/190895477-b4f5d226-9f0d-4946-8086-b355c997776e.png)
 
-Код задания можно посмотеть по ссылке: https://colab.research.google.com/drive/19aCJRYgkoxyFEQIqXTeDHqc-FbwNYwGW?usp=sharing
+Код задания можно посмотреть по ссылке: https://colab.research.google.com/drive/19aCJRYgkoxyFEQIqXTeDHqc-FbwNYwGW?usp=sharing
 
 Связанными являются функции: model - loss_function, model - optimize, iterate - optimize, iterate - model; (одна из пары используется в другой)
 
