@@ -54,7 +54,7 @@
 ![image](https://user-images.githubusercontent.com/105049918/190895556-54771d71-b5f9-4bb2-a774-a6f00ec95b22.png)
 ![image](https://user-images.githubusercontent.com/105049918/190895583-fa4c1a5b-0b7e-49d8-9d3e-3afe67acd1e8.png)
 ![image](https://user-images.githubusercontent.com/105049918/190895649-6d6ab27e-977c-45e7-b581-066acaec27cc.png)
-При увеличении Lr увеличивается расфукосировка лучей. Значит Lr влияет на это.
+При увеличении Lr увеличивается расфокусировка лучей. Значит Lr влияет на это.
 
 ## Выводы
 
